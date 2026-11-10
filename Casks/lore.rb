@@ -5,7 +5,7 @@ cask "lore" do
   url "https://github.com/atarazevich/lore/releases/download/v#{version}/Lore-v#{version}.dmg"
   name "lore"
   desc "Local voice dictation and meeting transcription"
-  homepage "https://lore.dev.cognition.design/"
+  homepage "https://lore.dev.devkit.md/"
 
   livecheck do
     url :url

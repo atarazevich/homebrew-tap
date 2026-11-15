@@ -1,6 +1,6 @@
 cask "lore" do
-  version "3.8.0"
-  sha256 "85c8400a4d5e64bdfe7aa4ee925eee7c116e8909dfd23ed4bb9a2a8fcf770ebf"
+  version "3.12.0"
+  sha256 "73bbf1272f829e295edbd435a333351ff549cf4b2c75c8b29cea486b63e67ff5"
 
   url "https://github.com/atarazevich/lore/releases/download/v#{version}/Lore-v#{version}.dmg"
   name "lore"
